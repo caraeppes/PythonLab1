@@ -59,11 +59,11 @@ It counts only as one try if they input the same number multiple times consecuti
 
 here are a couple of python lists
 
-`
- fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+```
+fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
  
- stack = [3, 4, 5, 8, 13, 17, 35, 42]
- `
+stack = [3, 4, 5, 8, 13, 17, 35, 42]
+```
  
  ### Problem 5 - Calendar Print
  
