@@ -86,8 +86,12 @@ numbers = [
 
 ### Problem 7 - Print word frequencies.
 
-Write a Python program to print a long text, convert the string to a list 
-and print all the words and their frequencies. Read in the file "longtext.txt" as
-a string, and then create a frequency table.
+Write a Python program to read in the file "longtext.txt" as
+a string, convert the string to a list 
+and then build a frequency table for every word in the list.
 
+Print the 250 most frequent words.
 
+### Problem 8 - Flask
+
+create a directory for a web project and build a simple web app using the Flask web framework. keep it simple, student.
