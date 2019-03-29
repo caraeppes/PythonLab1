@@ -100,4 +100,14 @@ Print the 250 most frequent words.
 
 ### Problem 8 - Flask
 
-create a directory for a web project and build a simple web app using the Flask web framework. keep it simple, student.
+Create a directory for a micro blog web project and build a simple web app using the Flask web framework in side the directory. Keep it simple, student.
+Have a way to display all your blog posts. have a way to add a blog post.
+Don't bother with users/login and all that. Just focus on python, flask and some database.
+
+see http://flask.pocoo.org/ for more on flask.
+
+for extra credit of 12,675,632 points...
+
+follow this https://realpython.com/flask-by-example-part-1-project-setup/ and get your flask app up on Heroku.
+(see heroku.com for what the hell Heroku is)
+
