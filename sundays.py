@@ -1,3 +1,5 @@
+# Number of Sundays on First of Month from January 1, 1901 to December 31, 2000
+
 from datetime import date
 
 
